@@ -2,7 +2,7 @@
 title: "VuexをTypeScriptでいい感じに書く"
 emoji: "⚡️"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["typescript", "vue", "vuex"]
+topics: ["typescript", "vue", "vuex", "nuxt"]
 published: true
 ---
 
