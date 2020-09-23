@@ -1,0 +1,14 @@
+{
+  "name": "zenn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:nkjmsss/zenn_articles.git",
+  "author": "nkjmsss <nakajima-sota018@g.ecc.u-tokyo.ac.jp>",
+  "license": "MIT",
+  "scripts": {
+    "preview": "zenn preview"
+  },
+  "dependencies": {
+    "zenn-cli": "^0.1.33"
+  }
+}
