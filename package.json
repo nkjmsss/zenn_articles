@@ -6,7 +6,8 @@
   "author": "nkjmsss <nakajima-sota018@g.ecc.u-tokyo.ac.jp>",
   "license": "MIT",
   "scripts": {
-    "preview": "zenn preview"
+    "start": "zenn preview",
+    "new:article": "zenn new:article"
   },
   "dependencies": {
     "zenn-cli": "^0.1.33"
