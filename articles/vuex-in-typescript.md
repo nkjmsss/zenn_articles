@@ -1,5 +1,5 @@
 ---
-title: "VuexをTypeScriptでいい感じに書く"
+title: "Vanilla VuexをTypeScriptで型安全に扱う"
 emoji: "⚡️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["typescript", "vue", "vuex", "nuxt"]
