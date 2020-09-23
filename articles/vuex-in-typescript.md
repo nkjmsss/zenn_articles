@@ -1,6 +1,6 @@
 ---
 title: "VuexをTypeScriptでいい感じに書く"
-emoji: ":sparkles:"
+emoji: "⚡️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["typescript", "vue", "vuex"]
 published: true
